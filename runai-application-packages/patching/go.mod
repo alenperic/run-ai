@@ -4,8 +4,8 @@ go 1.27.2
 
 require (
 	github.com/PaesslerAG/jsonpath v0.1.1
-	github.com/dsx-ai-factory/run-ai/runai-application-packages/convutils v1.0.6
-	github.com/dsx-ai-factory/run-ai/runai-application-packages/testutils v1.0.6
+	github.com/dsx-ai-factory/run-ai/runai-application-packages/convutils v1.0.7
+	github.com/dsx-ai-factory/run-ai/runai-application-packages/testutils v1.0.7
 	github.com/onsi/ginkgo/v2 v2.33.1
 	github.com/onsi/gomega v1.44.0
 	sigs.k8s.io/yaml v1.6.0
@@ -17,7 +17,7 @@ require (
 	github.com/go-logr/logr v1.4.4 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
-	github.com/google/pprof v0.0.0-20261014150452-c3b4e57cab2c // indirect
+	github.com/google/pprof v0.0.0-20261016150608-1facf8f91b50 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/shopspring/decimal v1.5.0 // indirect
 	github.com/stretchr/testify v1.12.1 // indirect

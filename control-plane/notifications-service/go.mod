@@ -15,7 +15,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11 // indirect
 	github.com/fsnotify/fsnotify v1.10.1 // indirect
 	github.com/fxamacker/cbor/v2 v2.9.6 // indirect
-	github.com/gabriel-vasile/mimetype v1.4.15 // indirect
+	github.com/gabriel-vasile/mimetype v1.4.16 // indirect
 	github.com/go-logr/logr v1.4.4 // indirect
 	github.com/go-logr/zapr v1.3.0 // indirect
 	github.com/go-openapi/analysis v1.0.1 // indirect
@@ -101,9 +101,9 @@ require (
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/JohannesKaufmann/html-to-markdown/v2 v2.5.2
-	github.com/dsx-ai-factory/run-ai/control-plane/notifications-service/pkg/client v1.0.2
-	github.com/dsx-ai-factory/run-ai/runai-common-packages/metrics v1.2.6
-	github.com/dsx-ai-factory/run-ai/runai-common-packages/runaictx v1.1.8
+	github.com/dsx-ai-factory/run-ai/control-plane/notifications-service/pkg/client v1.0.3
+	github.com/dsx-ai-factory/run-ai/runai-common-packages/metrics v1.2.7
+	github.com/dsx-ai-factory/run-ai/runai-common-packages/runaictx v1.1.9
 	github.com/emersion/go-sasl v0.0.0-20241020182733-b788ff22d5a6
 	github.com/emersion/go-smtp v0.25.0
 	github.com/go-chi/chi/v5 v5.5.0
